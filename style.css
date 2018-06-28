@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    font-family: Karla, sans-serif;
+}
+
+.x-container {
+    background: rgba(75, 0, 130, 0.7);
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.7);
+}
